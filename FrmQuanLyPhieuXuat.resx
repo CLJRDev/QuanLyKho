@@ -117,4 +117,64 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="but_timKiem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAABGdBTUEAALGPC/xhBQAAAU1JREFUSEvd
+        lcsuBEEUQDsRj4VYSIgFsfMKdkLC77CwG89P8FgT4hc8wn9ggZBYYCXWLCU4p7tnI5Oprp50Ik5y0nUr
+        VX1n6nE7+Qu04QIu4Wb+nEf7W6YL1/ENL/EQt/Onsf1r6LhSDOIVnuKIHQ0YxTN0nOOj6MVHrKVRmBV0
+        vPMK46/fypqF2cHjrBlmDp+wI42K04nPOJtGAfbRzSzDBu5lzebc42TWjGYKnR/kA7uzZjTOc36Qdyyb
+        pAedH6SV5ZrGQsvlxnnLy2DJOciazfEIeoQ9kjFYWl5wJo0KcILWqBh2sfBllHpZWU2jMN6rL5xIowgs
+        eFbacxyzowHjeIGf+I132I9RuM7+G0u6lfYIXUaf1/iKbvYQmqB0IvHj5EdqEX3pch63Yx1fXE90m8eV
+        0Ic3aKIHHMBK+L+J/MYM21EVJqo0wS+S5Af8PUQbeUxaZgAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <metadata name="GhiChu.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="ThuKho.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="TenKho.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="NguonNhap.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="NgayNhap.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="NguoiGiaoHang.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="MaPhieuNhap.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="but_xoa.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAABGdBTUEAALGPC/xhBQAAANxJREFUSEvt
+        lcEJAkEQBA80B3+agmahTx+GIJiB4RyIHzUG/RiHpiH40W7Yg6UZ3T7vI2hBMcwwvQvLwVU/yRyuM9l/
+        zBLuA+/wkck+2mO+yAHmh7WVF30Piw7aRM/gahOFXW2isKuNBm/J0ozaaHAGR/Caelb2nOuujQZ3sAeH
+        8Jgqe85110aDlAf2IeEFGxjt2URhPtEAEtbm6VQbDfLA5olWqbKPLrLR4BTy4G3qWdlzrrs2GjzDk8zY
+        c57PqI0G22gThV1tXn05JS/QZgJrqH+9d3J/DP90oaqedBjk55GiRLMAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="but_sua.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAABGdBTUEAALGPC/xhBQAAAMdJREFUSEvt
+        lTEKwkAQRYMKgp7ATjyCNxFLLfQkXkQrC8HOxtKreASPoO9DBsIQCe7ONpIHD8JC9jG7gVQ9jiFucYcj
+        LUSjwBnftXccYygzfKJF5A1DJtIEUszRh/aYhTa/1H4LbTAZC9hmbSGtDbSQgg+0hXRH9vwzerH5FXmv
+        mHXZXQGZFekDnRQPiBO2bWw2P9lkJvjAYgHjgD6QfUSeBSpkE4VNsEa/0RSPGBLQj+aF4UfSZIU6FoU0
+        URGWqFD4r/NfqKoPRxdpsblUFOYAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="but_them.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAABGdBTUEAALGPC/xhBQAAAKpJREFUSEvt
+        ldkJwzAQRNVAUqy7SNKJG4gLSLoK2PMgC/pYJZLW+MP2wEOwh0YXKJ2K6CoeYgxwF8xTFAXzCtxEUazE
+        a2qFeYr6Z/IRr+/o5Y2QyVMgRi9vhEysubbO1T5NuFzOnpgxCMSYx6nLHwOxokhaIa+oRW/RbLLJTjys
+        ubbO1XFMOHs0CS9vhEy4XF5RfskeIZNafpps8p/wo1HASnqh/yJO9SilBb1GKfODTr4SAAAAAElFTkSu
+        QmCC
+</value>
+  </data>
 </root>

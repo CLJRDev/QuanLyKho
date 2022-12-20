@@ -16,5 +16,9 @@ namespace QuanLyKho_Tuan1
         {
             InitializeComponent();
         }
+        private void load_dgv_phieuXuat()
+        {
+            string a = "strdsdasdasdassdsadasdasd";
+        }
     }
 }
