@@ -19,6 +19,7 @@ namespace QuanLyKho_Tuan1
         private void load_dgv_phieuXuat()
         {
             string a = "strdsdasdasdassdsadasdasd";
+            asjdkajsdljasdjalskdaskdjaskda;sbyteasdasdasda;
         }
     }
 }
